@@ -1,0 +1,20 @@
+/*
+Theme Name: Timepiece
+Theme URI: http://automattic.com/
+Author: Andrew Spittle, Daniel Bachhuber
+Author URI: http://automattic.com/
+Description: 
+Version: 0.0
+License: GNU General Public License
+*/
+
+body, html {
+	margin: 0;
+	padding: 0;
+}
+
+.wrap {
+	width: 560px;
+	margin-left: auto;
+	margin-right: auto;
+}
